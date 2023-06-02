@@ -10,6 +10,8 @@
 
 The React Dropdown Component is a simple and customizable dropdown implementation built with React. It provides a dropdown button that displays a list of options upon hovering. When an option is clicked, the dropdown closes. This component can be easily integrated into your React projects to enhance user interactions and provide dropdown functionality.
 
+**Live Demo:** [https://mihirwankhade10.github.io/react-dropdown-menu/](https://mihirwankhade10.github.io/react-dropdown-menu/)
+
 ## Screenshot
 
 <img width="960" alt="sc" src="https://github.com/mihirwankhade10/react-dropdown-menu/assets/87888969/ce459932-603e-463a-a8ef-46929e82ea6e">
