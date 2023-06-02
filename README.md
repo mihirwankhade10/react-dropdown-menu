@@ -30,6 +30,9 @@ To use the React Dropdown Component in your project, follow these steps:
 4. Start the development server:
 5. Open your browser and visit `http://localhost:3000` to see the React Dropdown Component in action.
 
+## Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
 ## Usage
 
 To use the React Dropdown Component in your own React project, follow these steps:
@@ -40,6 +43,5 @@ import Dropdown from './Dropdown';
 2. const dropdownItems = ['Option 1', 'Option 2', 'Option 3'];
 3. <Dropdown items={dropdownItems} />
 
-Contributing
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
 
