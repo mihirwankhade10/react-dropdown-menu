@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mihirwankhade10.github.io/github.com/mihirwankhade10/react-dropdown-menu",
+  "homepage": "https://mihirwankhade10.github.io/react-dropdown-menu",
   "name": "dropdown-app",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
