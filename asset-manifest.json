@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.com/mihirwankhade10/react-dropdown-menu/static/css/main.d288c8bb.css",
+    "main.js": "/github.com/mihirwankhade10/react-dropdown-menu/static/js/main.7a144015.js",
+    "static/js/787.a4ded588.chunk.js": "/github.com/mihirwankhade10/react-dropdown-menu/static/js/787.a4ded588.chunk.js",
+    "index.html": "/github.com/mihirwankhade10/react-dropdown-menu/index.html",
+    "main.d288c8bb.css.map": "/github.com/mihirwankhade10/react-dropdown-menu/static/css/main.d288c8bb.css.map",
+    "main.7a144015.js.map": "/github.com/mihirwankhade10/react-dropdown-menu/static/js/main.7a144015.js.map",
+    "787.a4ded588.chunk.js.map": "/github.com/mihirwankhade10/react-dropdown-menu/static/js/787.a4ded588.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d288c8bb.css",
+    "static/js/main.7a144015.js"
+  ]
+}
